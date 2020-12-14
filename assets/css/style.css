@@ -364,7 +364,7 @@
 .qualification__area{
     font-size: var(--normal-font-size);
     color: var(--first-color);
-    margin-bottom: var(--mb-1);
+    margin-bottom: var(--mb-2);
     font-weight: var(--font-medium);
 }
 .qualification__icon, .qualification__work{
