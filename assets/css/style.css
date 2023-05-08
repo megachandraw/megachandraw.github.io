@@ -331,6 +331,7 @@
     font-weight: var(--font-semi-bold);
     color: var(--first-color);
 }
+
 .about__number{
     font-size: var(--h1-font-size);
     color: var(--first-color);
